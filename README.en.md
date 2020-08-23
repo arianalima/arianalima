@@ -55,11 +55,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4>🌱 I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
 <h4>🤓 Some other tools I know...</h4>
 <p >
   <img src="https://img.shields.io/badge/pycharm%20-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -71,13 +66,18 @@ Here are some ideas to get you started:
 
 </p>
 
+<h4>🌱 I'm currently learning...</h4>
+<p >
+  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
   <a href="https://medium.com/@arianalimaguimaraes"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<hr>
 
 <br>
 <p align="right">
