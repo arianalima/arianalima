@@ -3,7 +3,7 @@
 
 <p align='center'>
   Read in &nbsp;&nbsp;
-  <a href="https://github.com/arianalima/arianalima/blob/master/README.pt.md"><img src="https://light.desbravador.com.br/static/img/icon_brasil.png" height="21" /></a>&nbsp;&nbsp; 
+  <a href="https://github.com/arianalima/arianalima/blob/master/README.md"><img src="https://light.desbravador.com.br/static/img/icon_brasil.png" height="21" /></a>&nbsp;&nbsp; 
   <a href="https://github.com/arianalima/arianalima/blob/master/README.en.md"><img src="https://image.flaticon.com/icons/png/512/323/323310.png" height="20" /></a>&nbsp;&nbsp;
 </p>
 
