@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h5>Volunteer Projects</h5>
 <p >
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/googlesheets%20-%230F9D58.svg?&style=for-the-badge&logo=googlesheets&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/google%20sheets%20-%230F9D58.svg?&style=for-the-badge&logo=google-sheets&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -60,6 +60,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
+<h4>🤓 Some other tools I know...</h4>
+<p >
+  <img src="https://img.shields.io/badge/pycharm%20-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=vscode&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/android%20-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/android%20studio%20-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/microsoft%20office%20-%23D83B01.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
+</p>
 
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
